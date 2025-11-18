@@ -21,7 +21,7 @@
   <a href="https://github.com/hiba-essid">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:essidhiba974@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -166,7 +166,8 @@ const hiba = {
 
 ## 💡 Random AI Quote
 <p align="center">
-  <img src="https://img.shields.io/badge/Whoever%20has%20the%20data%20will%20triumph%20the%20algorithm%20in%20the%20age%20of%20Deep%20Learning.%20%E2%80%94%20Andrew%20Ng-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Quote - Andrew Ng"/>
+  <img src="https://img.shields.io/badge/Whoever%20has%20the%20data%20will%20triumph%20over%20the%20algorithm%20in%20the%20age%20of%20Deep%20Learning.%20%E2%80%94%20Andrew%20Ng-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Quote - Andrew Ng"/>
+</p>
 </p>
 
 
