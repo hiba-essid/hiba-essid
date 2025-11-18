@@ -34,7 +34,7 @@ const hiba = {
     pronouns: "she" | "her",
     location: "Tunisia 🇹🇳",
     education: "ICT Engineering Student",
-    currentFocus: ["AI & Machine Learning", "IoT Systems", "Cybersecurity"],
+    currentFocus: ["AI & Machine Learning", "IoT Systems", "data science for embedded communications],
     
     interests: [
         "🤖 Artificial Intelligence & Machine Learning",
@@ -49,8 +49,8 @@ const hiba = {
         "Advanced Machine Learning Techniques",
         "MCP Servers & Claude AI Integration",
         "Docker & Kubernetes",
-        "Embedded Systems with Arduino & ESP32",
-        "Ethical Hacking & Penetration Testing"
+        "Embedded Systems with Arduino & STM32",
+      
     ],
     
     funFact: "I believe every problem has a technological solution! 💡"
@@ -66,7 +66,7 @@ const hiba = {
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,arduino" alt="Tools" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express,ensp" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express,chroma" alt="Databases" />
 </p>
 
 ### 🛠️ Technologies & Tools
@@ -130,11 +130,6 @@ const hiba = {
     <td>📊</td>
     <td><strong>Data Science Projects</strong></td>
     <td>Exploring machine learning algorithms and data visualization</td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td><strong>Cybersecurity</strong></td>
-    <td>Learning ethical hacking and network security best practices</td>
   </tr>
   <tr>
     <td>🌐</td>
