@@ -62,7 +62,7 @@ const hiba = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,nodejs" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,arduino" alt="Tools" />
   <br>
@@ -118,15 +118,6 @@ const hiba = {
   </tr>
 </table>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiba-essid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 🔧 What I'm Currently Working On
 
 <table>
@@ -167,7 +158,6 @@ const hiba = {
   <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
   <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security"/>
   <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev"/>
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevOps"/>
 </p>
@@ -175,12 +165,10 @@ const hiba = {
 ---
 
 ## 💡 Random AI Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  "Whoever has the data will triumph the algorithm in the age of Deep Learning." —
-  Andrew Ng 
+  <img src="https://img.shields.io/badge/Whoever%20has%20the%20data%20will%20triumph%20the%20algorithm%20in%20the%20age%20of%20Deep%20Learning.%20%E2%80%94%20Andrew%20Ng-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Quote - Andrew Ng"/>
 </p>
+
 
 ---
 
@@ -197,7 +185,7 @@ const hiba = {
   <a href="https://github.com/hiba-essid">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:essihiba984@gmail.com">
+  <a href="mailto:essihiba974@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
