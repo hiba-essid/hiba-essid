@@ -62,11 +62,11 @@ const hiba = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,nodejs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,wildfly" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,arduino" alt="Tools" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,ssms,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,oracle" alt="Databases" />
 </p>
 
 ### 🛠️ Technologies & Tools
