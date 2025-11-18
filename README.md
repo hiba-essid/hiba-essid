@@ -118,24 +118,6 @@ const hiba = {
   </tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiba-essid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiba-essid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiba-essid&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiba-essid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -192,10 +174,12 @@ const hiba = {
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Random AI Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  "Whoever has the data will triumph the algorithm in the age of Deep Learning." —
+  Andrew Ng 
 </p>
 
 ---
@@ -213,7 +197,7 @@ const hiba = {
   <a href="https://github.com/hiba-essid">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:essihiba984@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
