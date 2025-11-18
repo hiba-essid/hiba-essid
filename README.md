@@ -1,9 +1,8 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f53e1f45-976c-40f1-8f07-18c129c38239" width="400" height="400" alt="Profile Banner">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhuaDN3MzN3dHNteXJiYXlvMTRwYXZ1NTd2djJ5dm4ycWp4c215cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="500" alt="Coding Animation">
 </p>
-
 <h1 align="center">Hi there 👋, I'm Hiba</h1>
 
 <p align="center">
