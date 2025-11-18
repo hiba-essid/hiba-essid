@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**hiba-essid/hiba-essid** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f53e1f45-976c-40f1-8f07-18c129c38239" width="800" />
 </p>
