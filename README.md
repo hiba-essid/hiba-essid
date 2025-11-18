@@ -10,10 +10,10 @@
 <h1 align="center">Hi there 👋, I'm Hiba</h1>
 
 <p align="center">
-I am an ICT engineering student, passionate about IoT, antennas, geosatellites, cybersecurity and embedded systems.
+I am an ICT engineering student, passionate about data science , artificial intelligence , IoT, antennas, embedded systems and cybersecurity . 
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://linkedin.com/in/Hiba Essid">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/hiba-essid">
