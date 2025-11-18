@@ -34,7 +34,7 @@ const hiba = {
     pronouns: "she" | "her",
     location: "Tunisia 🇹🇳",
     education: "ICT Engineering Student",
-    currentFocus: ["AI & Machine Learning", "IoT Systems", "data science for embedded communications],
+    currentFocus: ["AI & Machine Learning", "IoT Systems", "data science for embedded communications"],
     
     interests: [
         "🤖 Artificial Intelligence & Machine Learning",
