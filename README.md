@@ -66,10 +66,12 @@ const hiba = {
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse" alt="Tools" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express,chroma" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express" alt="Databases" />
+   <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chromatic&logoColor=white" alt="Chroma" />
   <br>
-  <img src="https://skillicons.dev/icons?i=rasbperrypi,arduino,esp32," alt="Hardware" />
-  
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+ 
 </p>
 
 ### 🛠️ Technologies & Tools
