@@ -66,7 +66,7 @@ const hiba = {
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse" alt="Tools" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express,wildfly" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,express,chroma" alt="Databases" />
   <br>
   <img src="https://skillicons.dev/icons?i=rasbperrypi,arduino,esp32," alt="Hardware" />
   
