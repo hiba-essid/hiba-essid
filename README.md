@@ -67,11 +67,10 @@ const hiba = {
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse" alt="Tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,express" alt="Databases" />
-   <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chromatic&logoColor=white" alt="Chroma" />
+  <img height="48" width="48" src="https://docs.trychroma.com/img/chroma.svg" alt="Chroma" style="background-color:#2c2c2c;border-radius:8px;padding:4px;" />
   <br>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
- 
+  <img height="48" width="48" src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" alt="ESP32" style="background-color:#2c2c2c;border-radius:8px;padding:4px;" />
 </p>
 
 ### 🛠️ Technologies & Tools
