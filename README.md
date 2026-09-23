@@ -63,9 +63,9 @@ const hiba = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c,matlab" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c,matlab,tensorflow" alt="Languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse,opencv" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse,opencv, visualstudio" alt="Tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,express" alt="Databases" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/126759663?s=200&v=4" alt="Chroma" />
