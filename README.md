@@ -103,18 +103,18 @@ const hiba = {
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="48" height="48" alt="Java"/><br>
-      <strong>Java</strong><br>
-      <sub>OOP, Backend Development</sub>
+      <strong>Tensorflow</strong><br>
+      <sub>OOP, AI </sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/raspberry.png" width="48" height="48" alt="JavaScript"/><br>
-      <strong>JavaScript</strong><br>
-      <sub>Web Development, Node.js</sub>
+      <strong>Raspberry</strong><br>
+      <sub>Embedded AI </sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/opencv.png" width="48" height="48" alt="Docker"/><br>
-      <strong>Docker</strong><br>
-      <sub>Containerization, DevOps</sub>
+      <strong>OpenCV</strong><br>
+      <sub>Computer Vision</sub>
     </td>
   </tr>
   <tr>
@@ -135,8 +135,8 @@ const hiba = {
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="MySQL"/><br>
-      <strong>MySQL</strong><br>
-      <sub>Database Management</sub>
+      <strong>Docker</strong><br>
+      <sub>MLops</sub>
     </td>
   </tr>
 </table>
