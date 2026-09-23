@@ -72,6 +72,8 @@ const hiba = {
   <br>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="ESP32" />
+  <br>
+  <img src="https://repository-images.githubusercontent.com/108505982/96d58400-4fe2-11ea-9b35-d5392e3a3284 />
  
 </p>
 
