@@ -63,7 +63,7 @@ const hiba = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c,matlab" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse,https://repository-images.githubusercontent.com/108505982/96d58400-4fe2-11ea-9b35-d5392e3a3284" alt="Tools" />
   <br>
