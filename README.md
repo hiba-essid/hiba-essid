@@ -112,7 +112,7 @@ const hiba = {
       <sub>Web Development, Node.js</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="Docker"/><br>
+      <img src="https://img.icons8.com/color/96/000000/opencv.png" width="48" height="48" alt="Docker"/><br>
       <strong>Docker</strong><br>
       <sub>Containerization, DevOps</sub>
     </td>
@@ -134,7 +134,7 @@ const hiba = {
       <sub>Version Control</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="48" height="48" alt="MySQL"/><br>
+      <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="MySQL"/><br>
       <strong>MySQL</strong><br>
       <sub>Database Management</sub>
     </td>
