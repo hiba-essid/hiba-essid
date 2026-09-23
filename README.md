@@ -65,15 +65,13 @@ const hiba = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c" alt="Languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,eclipse,https://repository-images.githubusercontent.com/108505982/96d58400-4fe2-11ea-9b35-d5392e3a3284" alt="Tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,express" alt="Databases" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/126759663?s=200&v=4" alt="Chroma" />
   <br>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="ESP32" />
-  <br>
-  <img src="https://repository-images.githubusercontent.com/108505982/96d58400-4fe2-11ea-9b35-d5392e3a3284 />
  
 </p>
 
