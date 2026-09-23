@@ -107,7 +107,7 @@ const hiba = {
       <sub>OOP, Backend Development</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48" height="48" alt="JavaScript"/><br>
+      <img src="https://img.icons8.com/color/96/000000/raspberry.png" width="48" height="48" alt="JavaScript"/><br>
       <strong>JavaScript</strong><br>
       <sub>Web Development, Node.js</sub>
     </td>
