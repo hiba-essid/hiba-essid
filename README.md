@@ -102,7 +102,7 @@ const hiba = {
       <sub>ML, Data Science, Backend</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="48" height="48" alt="Java"/><br>
+      <img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="48" height="48" alt="Java"/><br>
       <strong>Java</strong><br>
       <sub>OOP, Backend Development</sub>
     </td>
