@@ -32,8 +32,8 @@
 ```javascript
 const hiba = {
     pronouns: "she" | "her",
-    location: "Tunisia 🇹🇳",
-    education: "ICT Engineering Student",
+    location: "France FR",
+    education: "ICT Engineering Student - SOIA specilisation",
     currentFocus: ["AI & Machine Learning", "IoT Systems", "data science for embedded communications"],
     
     interests: [
@@ -47,9 +47,10 @@ const hiba = {
     
     currentlyLearning: [
         "Advanced Machine Learning Techniques",
+        "Embedded Systems with Arduino, Raspberry & STM32",
         "MCP Servers & Claude AI Integration",
         "Docker & Kubernetes",
-        "Embedded Systems with Arduino & STM32",
+        
       
     ],
     
