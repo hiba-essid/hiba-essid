@@ -70,7 +70,7 @@ const hiba = {
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,express" alt="Databases" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/126759663?s=200&v=4" alt="Chroma" />
   <br>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino, stm32, esp32" alt="Hardware" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="ESP32" />
  
 </p>
